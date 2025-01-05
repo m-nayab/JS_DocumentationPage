@@ -1,6 +1,6 @@
 Welcome to JS DocumentationPage
 
-This repository contains the documentation for JS(JavaScript).
+This repository contains the documentation for JS(JavaScript).This project is  created as part of the FreeCodeCamp Responsive Web Design Certification.
 
 Installation
 
